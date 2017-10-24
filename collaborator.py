@@ -171,5 +171,5 @@ class Github(object):
 
 if __name__ == '__main__':
 
-    gh = Github('f7fe4c03ae8774c731589c7994b644f597b406ff')
+    gh = Github()
     gh.main_muen()
